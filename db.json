@@ -6,6 +6,20 @@
       "description": "Merry christmas and a happy new year!",
       "image": "https://festoblockblob.blob.core.windows.net/wenet-prod/XMAS_Cards_210x100_Digital_DE_0.jpg?sv=2017-11-09&sr=b&se=2022-12-12T16:06:35Z&sp=r&sig=iRdqHtCglsmpS6OIq4SP%2FarPjGLWFDNjk51KkRazgqg%3D",
       "strength": 20
+    },
+    { 
+      "id": 1,
+      "name": "Festo XMAS Card 2022",
+      "description": "Merry christmas and a happy new year!",
+      "image": "https://festoblockblob.blob.core.windows.net/wenet-prod/XMAS_Cards_210x100_Digital_DE_0.jpg?sv=2017-11-09&sr=b&se=2022-12-12T16:06:35Z&sp=r&sig=iRdqHtCglsmpS6OIq4SP%2FarPjGLWFDNjk51KkRazgqg%3D",
+      "strength": 20
+    },
+    { 
+      "id": 2,
+      "name": "Festo XMAS Card 2022",
+      "description": "Merry christmas and a happy new year!",
+      "image": "https://festoblockblob.blob.core.windows.net/wenet-prod/XMAS_Cards_210x100_Digital_DE_0.jpg?sv=2017-11-09&sr=b&se=2022-12-12T16:06:35Z&sp=r&sig=iRdqHtCglsmpS6OIq4SP%2FarPjGLWFDNjk51KkRazgqg%3D",
+      "strength": 20
     }
   ]
 }
